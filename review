@@ -1,0 +1,34 @@
+<script type="application/ld+json">
+                  {
+                    "@context": "https://schema.org/",
+                    "@type": "Review",
+                    "reviewBody": "<PEREX>",
+                    "datePublished": "<DATUM VYTVOŘENÍ RECENZE>",
+                    "dateModified": "<DATUM POSLEDNÍ AKTUALIZACE RECENZE>",
+                    "sameAs": "<URL Seznamky>",
+                    "commentCount": "<Počet komentářů u recenze>",
+                  "itemReviewed": {
+                    "@type": "Organization",
+                    "name": "<Název seznamky>",
+                    "logo": "<Logo seznamky>",
+                    "description": "<PEREX>"
+                  },
+                  "author": {
+			              "@type": "Organization",
+			              "name": "Lovino.cz",
+			              "url": "https://www.lovino.cz/",
+			              "logo": "<LOGO WEBU>",
+			              "foundingDate": "2018-04-12T11:26:09+0000"
+		              },
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": "<OUR rating>",
+                    "bestRating": "100"
+                    "worstRating": "0"
+                  },
+                  "publisher": {
+                    "@type": "Organization",
+                    "name": "Lovino.cz"
+                  }
+                }
+               </script>
