@@ -1,0 +1,21 @@
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "<CELÉ JMÉNO AUTORA>",
+      "jobTitle": "<Udělat si titly pro autory v sb jako "mistr seznamek atp..">",
+      "description": "<POPIS AUTORA>",
+      "image": "<URL - IMAGE AUTORA>",
+      "url": "<URL NA PROFIL AUTORA>",
+	    "sameAs": [    //Vytvořil bych autorům socky
+             "<URL FACEBOOK, POKUD JE PRÁZDNÝ SKIPNEME ŘÁDEK>",
+             "<URL INSTAGRAM, POKUD JE PRÁZDNÝ SKIPNEME ŘÁDEK>",
+             "<URL LINKEDIN, POKUD JE PRÁZDNÝ SKIPNEME ŘÁDEK>"],
+    "worksFor": {
+    "@type": "Organization",
+    "legalName": "Lovino.cz",
+    "email": "email firmy",
+    "vatID": "vatid firmy"
+  }
+  }
+    </script>
